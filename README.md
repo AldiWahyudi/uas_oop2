@@ -1,10 +1,3 @@
-# Final Project Mobile Programming & OOP2
-
-## Kelas 5C
-Fariq Fadillah Gusti Insani - 18090094
-
-Sofanji - 18090098
-
-- Database using room
-
-- Data Barang (Helm)# uas_oop2 18090142 18090080 5A
+Kelas 5A
+18090142_Aldi Wahyudi (Tabel Paket)
+18090080_Takhrirul Fauzi (Tabel Kurir)
